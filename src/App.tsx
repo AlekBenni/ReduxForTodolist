@@ -16,7 +16,7 @@ import { removeTaskAC, addTaskAC, changeStatusAC, onChangeTitleAC } from './stat
 import { useDispatch, useSelector } from 'react-redux';
 import { RootStateType } from './state/store';
 
-const test = 10
+const test = 1
 
 const useStyles = makeStyles((theme) => ({
     root: {
